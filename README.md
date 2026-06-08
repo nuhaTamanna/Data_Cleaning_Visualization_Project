@@ -1,6 +1,4 @@
-# Data_Cleaning_Visualization_Project
-
-# Titanic Data Cleaning & Visualization Project
+# Data_Cleaning_Visualization_Project: Titanic 
 
 ## Introduction
 
